@@ -124,6 +124,8 @@ Where which we can imagine as:
 |`4`    |`5`    |`6` |
 |`7`    |`8`    |`9` |
 
+> Note that this is also a common way to represent images!
+
 So we can iterate through this array using two for loops:
 
 ```Java
